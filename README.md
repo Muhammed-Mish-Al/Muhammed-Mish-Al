@@ -1,18 +1,3 @@
-<!--
-  ============================================================
-  GITHUB PROFILE README — Muhammed Mish-Al
-  ============================================================
-  SETUP:
-  1. Create a public repo named EXACTLY "Muhammed-Mish-Al" so
-     GitHub renders this on your profile: github.com/Muhammed-Mish-Al
-  2. Push this README.md AND avatar.png to the repo root — the
-     avatar is referenced as a relative path (./avatar.png).
-  3. GitHub username is already filled in everywhere (stats,
-     streak, contribution graph, project links).
-  4. Still to fill in when ready: the six project repo URLs
-     below (marked <!-- REPLACE -->), and a Portfolio badge if/when
-     you have a site (commented out near the top and in Connect).
-  ============================================================
 -->
 
 <div align="center">
@@ -211,5 +196,6 @@ Personal developer portfolio showcasing projects, experience, and writing.
 <sub><em>"And say, 'My Lord, increase me in knowledge.'"</em><br>— Qur'an 20:114</sub>
 
 </div>
+
 
 &nbsp;
