@@ -4,7 +4,7 @@
 
 <br>
 
-<!-- avatar.png is included alongside this README — commit it to the repo root -->
+
 <img src="./avatar.png" width="120" height="120" style="border-radius:50%;" alt="Muhammed Mish-Al" />
 
 <br><br>
