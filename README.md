@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/avatar.png" width="120" height="120" style="border-radius: 50%;" />
-  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-professional.png" width="70" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/avatar.png" width="100" height="100" style="border-radius: 50%; object-fit: cover; vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-professional.png" width="100" height="100" style="border-radius: 50%; object-fit: cover; vertical-align: middle; margin-left: 10px;" />
 
   <h1>Muhammed Mishal</h1>
   <sub>AI Engineering · Machine Learning · Backend</sub>
@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-  <sub>B.Tech student in AI & ML, building toward real systems — not just notebooks.<br/>
+  <sub>B.Tech student in AI &amp; ML, building toward real systems — not just notebooks.<br/>
   Currently focused on turning models into things that actually run in production.</sub>
 </div>
 
@@ -25,17 +25,11 @@
 
 ### Selected Projects
 
-**AcadeX** — Backend system for [one-line description of what it does].
+**AcadeX** — Backend system for [one-line description of what it does]. [`repo →`](#)
 
-[`repo link`](#)
+**Image Classification System** — Internship capstone project; an image classification pipeline built end-to-end. [`repo →`](#)
 
-**Image Classification System** — Internship capstone project; an image classification pipeline built end-to-end.
-
-[`repo link`](#)
-
-**AI PDF Chat** — Chat interface over PDF documents using an LLM pipeline.
-
-[`repo link`](#)
+**AI PDF Chat** — Chat interface over PDF documents using an LLM pipeline. [`repo →`](#)
 
 <sub>More on my [pinned repositories](https://github.com/Muhammed-Mish-Al?tab=repositories).</sub>
 
@@ -43,23 +37,13 @@
 
 ### Technologies
 
-<table>
-<tr>
-<td valign="top">
+<img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-peeking.png" width="64" align="right" />
 
-**Languages & ML** — Python · Machine Learning
-
-**Backend** — FastAPI · PostgreSQL · Docker
-
+**Languages & ML** — Python · Machine Learning<br/>
+**Backend** — FastAPI · PostgreSQL · Docker<br/>
 **Infra** — AWS · MLOps · Git
 
-</td>
-<td width="90" align="right">
-<img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-peeking.png" width="80" />
-</td>
-</tr>
-</table>
-
+<br clear="both" />
 <br />
 
 ### Connect
