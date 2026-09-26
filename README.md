@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/avatar.png" width="120" height="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-professional.png" width="70" style="vertical-align: middle; margin-left: 8px;" />
 
   <h1>Muhammed Mishal</h1>
   <sub>AI Engineering · Machine Learning · Backend</sub>
@@ -25,12 +26,15 @@
 ### Selected Projects
 
 **AcadeX** — Backend system for [one-line description of what it does].
+
 [`repo link`](#)
 
 **Image Classification System** — Internship capstone project; an image classification pipeline built end-to-end.
+
 [`repo link`](#)
 
 **AI PDF Chat** — Chat interface over PDF documents using an LLM pipeline.
+
 [`repo link`](#)
 
 <sub>More on my [pinned repositories](https://github.com/Muhammed-Mish-Al?tab=repositories).</sub>
@@ -39,18 +43,25 @@
 
 ### Technologies
 
+<table>
+<tr>
+<td valign="top">
+
 **Languages & ML** — Python · Machine Learning
+
 **Backend** — FastAPI · PostgreSQL · Docker
+
 **Infra** — AWS · MLOps · Git
+
+</td>
+<td width="90" align="right">
+<img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/cat-peeking.png" width="80" />
+</td>
+</tr>
+</table>
 
 <br />
 
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/muhammed-mish-al-61b04b32b) · [Email](mailto:your.email@example.com) · [GitHub](https://github.com/Muhammed-Mish-Al)
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammed-Mish-Al/Muhammed-Mish-Al/main/assets/kitty-panel.png" width="420" />
-</div>
